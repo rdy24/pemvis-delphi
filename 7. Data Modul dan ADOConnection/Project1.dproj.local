@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/04/15 09.00.00.000.740,=D:\tugas kuliahku\smt 4\pemvis\Teori\2018112_Tugas 7\Unit3.pas</Transaction>
+    <Transaction>2022/04/15 09.00.00.000.830,D:\tugas kuliahku\smt 4\pemvis\Teori\Unit1.dfm=D:\tugas kuliahku\smt 4\pemvis\Teori\2018112_Tugas 7\Unit1.dfm</Transaction>
+    <Transaction>2022/04/15 09.00.00.000.296,=D:\tugas kuliahku\smt 4\pemvis\Teori\Unit1.pas</Transaction>
+    <Transaction>2022/04/15 09.00.00.000.830,D:\tugas kuliahku\smt 4\pemvis\Teori\Unit1.pas=D:\tugas kuliahku\smt 4\pemvis\Teori\2018112_Tugas 7\Unit1.pas</Transaction>
+    <Transaction>2022/04/15 09.00.00.000.819,D:\tugas kuliahku\smt 4\pemvis\Teori\Project1.dproj=D:\tugas kuliahku\smt 4\pemvis\Teori\2018112_Tugas 7\Project1.dproj</Transaction>
+    <Transaction>2022/04/15 09.00.00.000.670,=D:\tugas kuliahku\smt 4\pemvis\Teori\2018112_Tugas 7\Unit2.pas</Transaction>
+    <Transaction>2022/04/15 09.00.00.000.340,=D:\tugas kuliahku\smt 4\pemvis\Teori\2018112_Tugas 7\Unit4.pas</Transaction>
+    <Transaction>2022/04/15 09.00.00.000.296,=D:\tugas kuliahku\smt 4\pemvis\Teori\2018112_Tugas 7\Unit5.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,31 @@
+object DataModule2: TDataModule2
+  OldCreateOrder = False
+  Height = 211
+  Width = 320
+  object ADOConnection1: TADOConnection
+    Connected = True
+    ConnectionString = 
+      'Provider=Microsoft.Jet.OLEDB.4.0;Data Source=bandara.mdb;Persist' +
+      ' Security Info=False'
+    LoginPrompt = False
+    Mode = cmShareDenyNone
+    Provider = 'Microsoft.Jet.OLEDB.4.0'
+    Left = 56
+    Top = 48
+  end
+  object DataSource1: TDataSource
+    DataSet = ADOQuery1
+    Left = 176
+    Top = 40
+  end
+  object ADOQuery1: TADOQuery
+    Active = True
+    Connection = ADOConnection1
+    CursorType = ctStatic
+    Parameters = <>
+    SQL.Strings = (
+      'select * from pesawat')
+    Left = 40
+    Top = 128
+  end
+end
